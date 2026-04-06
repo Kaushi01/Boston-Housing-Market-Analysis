@@ -229,7 +229,7 @@ git clone https://github.com/YOUR_USERNAME/Boston-Housing-Market-Analysis.git
 
 ## 👤 Author
 
-**Raj** — Aspiring Data Analyst
+**Kaushiki Sharma** — Aspiring Data Analyst
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_PROFILE)
